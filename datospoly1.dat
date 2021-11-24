@@ -1,0 +1,15 @@
+# Created by Octave 5.1.0, Mon Nov 22 12:46:10 2021 GMT <unknown@LAPTOP-51RUR4NJ>
+# name: T
+# type: matrix
+# rows: 1
+# columns: 5
+ 0 0.5 1 1.5 2
+
+
+# name: v
+# type: matrix
+# rows: 1
+# columns: 5
+ 0.40000000000000002 2.1000000000000001 2.8999999999999999 3.2999999999999998 2.5
+
+
